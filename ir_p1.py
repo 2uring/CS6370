@@ -1,5 +1,5 @@
 import nltk
 
-myPara = "New Delhi: Actor Kangana Ranaut's compared Mumbai to PoK and Pakistan today as a civic team demolished alleged illegal structures at her office in the middle of her massive row with Maharashtra's ruling Shiv Sena. Visuals showed a bulldozer at work at her office around the same time she took a flight to Mumbai, surrounded by heavy security."
+myPara = "Frank Lampard's men got off to an ideal start after 23 minutes. New signing Timo Werner drew a penalty after he was taken down by Brighton goalkeeper Mat Ryan, and Jorginho stepped up to give the Blues the lead."
 tokens = nltk.word_tokenize(myPara)
 print(tokens)
